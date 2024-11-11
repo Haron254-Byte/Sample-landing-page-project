@@ -1,4 +1,4 @@
-@media(prefers-reduced-motion:no-preference){
+media(prefers-reduced-motion:no-preference){
 	*{scroll-behavior: smooth;
 	}
   }
@@ -54,9 +54,8 @@
 	width: 100vw;
 	height: 5rem;
 	position: fixed;
-	  top: 0;
 	background-color: #DDD0C8;
- 
+  margin: -8;
   
   }
   #header-img{
