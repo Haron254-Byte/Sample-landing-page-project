@@ -39,7 +39,6 @@
    padding: 2px;
    border-radius: 3px;
    font-weight: 800;
-
   } 
   
   a:hover{
@@ -55,12 +54,8 @@
 	width: 100vw;
 	height: 5rem;
 	position: fixed;
-	  top: 0;
 	background-color: #DDD0C8;
-	  padding: 10px;
-
-	  
-	  
+  margin: -8;
   
   }
   #header-img{
@@ -69,9 +64,9 @@
   background-color: rgba(221, 184, 147,.7);
   }
   #nav-bar{
-	float: left;
+	float: right;
 	
-	  
+	margin-top: -10px;
   
   }
   body{
@@ -123,7 +118,6 @@
 	 font-weight: 800px;
 	border-radius: 15%;
 	padding: 4px;
-	 
   
   }
   #how{
